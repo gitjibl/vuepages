@@ -21,7 +21,7 @@ function getEntry() {
             filename: `${baseName}.html`
         };
         /**
-         * one: {
+         * index: {
          *       // page 的入口
          *       entry: 'src/views/index/index.js',
          *       // 模板来源
