@@ -1,4 +1,5 @@
 const path = require('path');
+//glob 模式是指 shell 所使用的简化了的正则表达式
 const glob = require('glob');
 
 // TODO: 页面路径
