@@ -1,6 +1,6 @@
 import Vue from 'vue'
 import TestApp from './TestApp.vue'
-import router from '@/router'
+import router from './router/testRouter'
 import store from '@/store'
 
 
